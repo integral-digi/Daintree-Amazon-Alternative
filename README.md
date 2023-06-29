@@ -1,3 +1,5 @@
+UI/UX Design: https://www.figma.com/file/d2bdF1QZD8xW077IDUQE43/Daintree?type=design&node-id=92-821&mode=design&t=21SUlQ6IPJgwGCNh-0
+
 Live Link: https://daintree-om.vercel.app/
 
 # Getting Started with Create React App
