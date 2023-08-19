@@ -44,7 +44,7 @@ const Header = () => {
                   What’s New
                 </li>
                 <li className="text-[#1E1E1E] lg:px-[36px] font-semibold font-[450] text-lg active:opacity-100 hover:opacity-100  active lg:p-0 py-2 cursor-pointer">
-                  What’s New
+                  Pickup & Delivery
                 </li>
               </ul>
             </div>
